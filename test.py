@@ -18,4 +18,3 @@ elif c == "pow":
     print(a**b)
 elif c == "div":
     print(a//b)
-    
